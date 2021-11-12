@@ -1,3 +1,9 @@
+.form-control {
+  display: inline-block;
+  text-align: center;
+  width: 400px;
+}
+
 body {
   background-image: url("pinkclouds.gif");
   background-repeat: no-repeat;
@@ -33,7 +39,6 @@ body {
 .Weather .temperature {
   color: rgb(33, 33, 33);
   font-size: 80px;
-  
 }
 
 .Weather canvas {
